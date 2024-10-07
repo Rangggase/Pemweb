@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antrian Barber</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href="">Antrian barber</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a ><a href="#home">Home</a></a></li>
+                    <li><a><a href="#antrian">Hair Styles</a></li>
+                    <li><a><a href="#hair styles">Antrian</a></a></li>
+                    <li><a><a href="#partners">partners</a></a></li>
+                    <li><a><a href="#contact">Contact</a></a></li>
+                    <li><a><a href=""class ="tbl-biru">Sign up</a></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <saction id="home">
+            <img src="https://img.freepik.com/premium-photo/vintage-barbershop-tools-set-with-classic-barber-monochrome-collection-barbershop-tools_610832-5124.jpg?ga=GA1.1.2102685613.1727361530&semt=ais_hybrid"/>
+            <div class="kolom">
+                <div class="kolom">
+                    <p class ="deskripsi">let your hair do the talking</p>
+                        <h2>Style determines a person's identity</h2>
+                        <p>In a special place with a masculine atmosphere, a professional who is an expert in cutting, styling and caring for hair and mustaches</p>
+                        <p><a href=""class="tbl-pink">Pelajari lebih lanjut</a></p>
+                </div>
+            </div>
+        </saction>
+
+        <!-- untuk hair styles -->
+         <section id="hair styles">
+            <div class="kolom">
+                <p class ="you will need this"></p>
+                <h2>Antrian</h2>
+                <p>Thank you for your patience! Your turn will come soon, so enjoy this waiting time. While you wait, you can see various new styles that you might want to try.</p>
+                <p>Ingat, setiap antrian membawa hasil yang memuaskan, dan Anda sedang satu langkah lebih dekat untuk tampil beda!i</p>
+                <p><a href=""class ="tbl-biru">pelajari lebih lanjut</a></p>
+            </div>
+            <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXITnn5Ei9shF8umy-4uEyh3zcF2dE5_BpmZ6gaPAg9va8pSoiopYlekqWec6ud86hfPc9bfQGJqDDg4OhE7J4fwpunLSaIhDggF4QyKbzwKiHS09qrW7uI7x3Ff8IJD4KPsjSt8C84U/s1600/pemodelan+pada+sistem+antrian.jpg" alt="">
+         </section>
+       
+         <!-- untuk antrian-->
+          <section id="antrian">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class ="diskripsi">the best style now</p>
+                    <h2>Hair Styles</h2>
+                    <p>You can choose one of the recommendations from the best cuts now</p>
+                    
+                </div>
+                <div class="styles-list">
+                    <div class="kartu-antrian">
+                        <img src="https://s3.ap-southeast-3.amazonaws.com/bromen.id/public/short_curly_undercut.webp" alt="">
+                        <p> Eminem </p>
+                    </div>
+                    <div class="kartu-antrian">
+                        <img src="https://i.pinimg.com/550x/11/a2/a0/11a2a0347d4f004b6c4c582234602903.jpg" alt="">
+                        <p> Jason Lee scott </p>
+                    </div>
+                    <div class="kartu-antrian">
+                        <img src="https://i.pinimg.com/1200x/95/43/46/9543460dd5d6ad01548d1d2dc99d447d.jpg" alt="">
+                        <p> Jarvis Cot</p>
+                    </div>
+                    <div class="kartu-antrian">
+                        <img src="https://backendprod.gatsby.co.id/media/article/gaya_rambut_pendek_pria_indonesia_2021_short_and_neat.jpg" alt="">
+                        <p> Marcel De Pole </p>
+                    </div>
+                </div>
+            </div>
+          </section>
+
+          <!-- untuk partners -->
+           <section id="partners">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="diskripsi">Our Top Partners</p>
+                    <h2>Partners</h2>
+                    <p>We are proud to partner with brands and organizations that align with our vision and values. Together, we are committed to providing the best customer experience and supporting local communities.</p>
+
+                </div>
+                <div class="partners-list">
+                    <div class="kartu-partners">
+                        <img src="https://i.pinimg.com/550x/a4/93/25/a493253f2b9b3be6ef48886bbf92af58.jpg" alt="">
+                    </div>
+                    <div class="kartu-partners">
+                        <img src="https://st2.depositphotos.com/1832477/12036/i/450/depositphotos_120363808-stock-photo-vintage-barber-shop-logos-labels.jpg" alt="">
+                    </div>
+                    <div class="kartu-partners">
+                        <img src="https://www.shutterstock.com/image-vector/feel-king-barber-shop-logo-600nw-2494151487.jpg" alt="">
+                    </div>
+                    <div class="kartu-partners">
+                        <img src="https://st2.depositphotos.com/32939738/47576/i/450/depositphotos_475768522-stock-photo-gentleman-barbershop-logo-design-modern.jpg" alt="">
+                    </div>
+                    <div class="kartu-partners">
+                        <img src="https://marketplace.canva.com/EAFysqxNVS4/1/0/800w/canva-cokelat-dan-hitam-minimalis-logo-barber-shop-UT4_N8mVg1M.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+           </section>
+    </div>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>Visi dan Misi</h3>
+                    <p>Visi Menjadi salon cukur terkemuka yang dikenal karena kualitas layanan, inovasi dalam gaya, dan komitmen terhadap kepuasan pelanggan.</p>
+                    <p>Misi</p> <p>1. Layanan berkualitas 2.Pengalaman Pelanggan 3.Inovasi Gaya 4.komitmrn sosial </p>
+                    
+                </div>
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <p>Di Antrian Barber, kami percaya bahwa setiap potongan rambut adalah seni.
+                         Dengan pengalaman dan keahlian tim kami, kami berkomitmen untuk memberikan layanan terbaik dalam suasana yang ramah dan nyaman. 
+                         Kami tidak hanya memotong rambut; kami menciptakan pengalaman yang membuat Anda merasa percaya diri dan istimewa.</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Jl. Raya Kebon Jeruk No. 45
+                        Jakarta Barat, DKI Jakarta 11530
+                        Indonesia</p>
+                    <p>Kode Pos:72518</p>
+                    <p>(031) 7654321</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social.</h3>
+                    <p><b>YouTube:</b>BarberCom</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2020. <b>AntrianBarber.</b> All Right Reserved.
+        </div>
+    </div>
+</body>
+</html>
